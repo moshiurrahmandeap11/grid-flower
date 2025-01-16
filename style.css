@@ -91,6 +91,10 @@ body {
         margin: 0 10px;
     }
 
+    .portfolio-text{
+        border: none;
+    }
+
     .gallery{
         width: 100%;
         grid-auto-rows: 220px;
