@@ -88,6 +88,7 @@ body {
     .container{
         flex-direction: column;
         padding-block: 20px;
+        margin: 0 10px;
     }
 
     .gallery{
